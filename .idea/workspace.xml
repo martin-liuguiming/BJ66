@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1df30ac1-1d8b-4153-9274-8099d540a4c1" name="Changes" comment="third Changes" />
+    <list default="true" id="1df30ac1-1d8b-4153-9274-8099d540a4c1" name="Changes" comment="third Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MavenStudy/src/main/java/com/itheima/start/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/MavenStudy/src/main/java/com/itheima/start/HelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
   </component>
   <component name="RunManager" selected="Application.com.itheima.base.ForX">
     <configuration name="IfX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -153,6 +156,8 @@
       <workItem from="1679792511036" duration="203000" />
       <workItem from="1679825289350" duration="27000" />
       <workItem from="1684597823103" duration="748000" />
+      <workItem from="1684601765235" duration="565000" />
+      <workItem from="1684602345151" duration="507000" />
     </task>
     <task id="LOCAL-00001" summary="first Changes">
       <created>1684598438102</created>
@@ -172,7 +177,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -207,13 +214,17 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state width="1663" height="274" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1684598598033" />
-    <state x="206" y="0" key="SettingsEditor" timestamp="1684597937082">
+    <state x="206" y="0" key="SettingsEditor" timestamp="1684602568078">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="206" y="0" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1684597937082" />
-    <state x="324" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1684597823977">
+    <state x="206" y="0" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1684602568078" />
+    <state x="446" y="246" key="Vcs.Push.Dialog.v2" timestamp="1684602795115">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="324" y="291" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1684597823977" />
+    <state x="446" y="246" key="Vcs.Push.Dialog.v2/0.0.1707.1019@0.0.1707.1019" timestamp="1684602795115" />
+    <state x="324" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1684602345757">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="324" y="291" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1684602345757" />
   </component>
 </project>
