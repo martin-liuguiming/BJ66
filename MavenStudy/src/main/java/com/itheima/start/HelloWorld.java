@@ -10,7 +10,7 @@ import com.itheima.Student;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("HelloWorld,helloworld,helloworld");
+        System.out.println("HelloWorld,helloworld,helloworld4444");
         Student student = new Student();
         student.setName("yangkunlin");
     }

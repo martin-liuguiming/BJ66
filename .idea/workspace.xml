@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1df30ac1-1d8b-4153-9274-8099d540a4c1" name="Changes" comment="first Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7306823d-07fc-4101-bc01-7a10bde9494f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7306823d-07fc-4101-bc01-7a10bde9494f/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7306823d-07fc-4101-bc01-7a10bde9494f/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7306823d-07fc-4101-bc01-7a10bde9494f/storage_v2/_src_/schema/test.kkQ2AA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MavenStudy/src/main/java/com/itheima/start/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/MavenStudy/src/main/java/com/itheima/start/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="1df30ac1-1d8b-4153-9274-8099d540a4c1" name="Changes" comment="third Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -119,10 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.itheima.base.ForX" />
+        <item itemvalue="Application.ScannerC" />
+        <item itemvalue="Application.IfX" />
         <item itemvalue="Application.com.itheima.base.WhileX" />
         <item itemvalue="Application.com.itheima.base.SwitchX" />
-        <item itemvalue="Application.IfX" />
+        <item itemvalue="Application.com.itheima.base.ForX" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +166,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first Changes" />
