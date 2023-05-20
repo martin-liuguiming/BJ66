@@ -13,6 +13,7 @@ public class HelloWorld {
         System.out.println("HelloWorld,helloworld,helloworld4444,master");
         System.out.println("HelloWorld,helloworld,helloworld4444,,helloworldhot-fix05555");
         System.out.println("HelloWorld,helloworld,helloworld4444,,helloworldhot-fix05555,push test");
+        System.out.println("HelloWorld,helloworld,helloworld4444,,helloworldhot-fix05555,pull test");
         Student student = new Student();
         student.setName("yangkunlin");
     }
