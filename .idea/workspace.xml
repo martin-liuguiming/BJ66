@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1df30ac1-1d8b-4153-9274-8099d540a4c1" name="Changes" comment="first Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7306823d-07fc-4101-bc01-7a10bde9494f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7306823d-07fc-4101-bc01-7a10bde9494f/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7306823d-07fc-4101-bc01-7a10bde9494f/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7306823d-07fc-4101-bc01-7a10bde9494f/storage_v2/_src_/schema/test.kkQ2AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MavenStudy/src/main/java/com/itheima/start/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/MavenStudy/src/main/java/com/itheima/start/HelloWorld.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2NUI9hQ2VnxpkZhMuwc861aqHUH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.com.itheima.base.ForX">
+    <configuration name="IfX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.base.IfX" />
+      <module name="BJ66" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.base.ScannerC" />
+      <module name="BJ66" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.base.ForX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.base.ForX" />
+      <module name="BJ66" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.base.SwitchX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.base.SwitchX" />
+      <module name="BJ66" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.base.WhileX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.base.WhileX" />
+      <module name="BJ66" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.itheima.base.ForX" />
+        <item itemvalue="Application.com.itheima.base.WhileX" />
+        <item itemvalue="Application.com.itheima.base.SwitchX" />
+        <item itemvalue="Application.IfX" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1df30ac1-1d8b-4153-9274-8099d540a4c1" name="Changes" comment="" />
+      <created>1679712093788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679712093788</updated>
+      <workItem from="1679712096103" duration="387000" />
+      <workItem from="1679712510044" duration="14351000" />
+      <workItem from="1679738374416" duration="6827000" />
+      <workItem from="1679792511036" duration="203000" />
+      <workItem from="1679825289350" duration="27000" />
+      <workItem from="1684597823103" duration="748000" />
+    </task>
+    <task id="LOCAL-00001" summary="first Changes">
+      <created>1684598438102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684598438103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="first Changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="107" key="CommitChangelistDialog2" timestamp="1684598437507">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="505" y="107" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1684598437507" />
+    <state x="797" y="281" key="FileChooserDialogImpl" timestamp="1684598066242">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="797" y="281" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1684598066242" />
+    <state x="206" y="0" key="SettingsEditor" timestamp="1684597937082">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="206" y="0" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1684597937082" />
+    <state x="324" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1684597823977">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="324" y="291" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1684597823977" />
+  </component>
+</project>
